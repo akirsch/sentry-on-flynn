@@ -2,8 +2,8 @@
   "name": "detect-node",
   "version": "0.0.1",
   "engines": {
-    "node": "6.9.1",
-    "npm": "3.10.8"
+    "node": "8.11.3",
+    "npm": "6.1.0"
   },
   "scripts": {
      "start": "node -v && npm -v"
