@@ -8,7 +8,7 @@ amqp==1.4.9               # via kombu
 anyjson==0.3.3            # via kombu
 BeautifulSoup==3.2.1      # via sentry-plugins
 billiard==3.3.0.23        # via celery
-boto3==1.4.1              # via sentry
+boto3==1.4.4              # via sentry
 boto==2.43.0
 botocore==1.4.69          # via boto3, s3transfer
 celery==3.1.18            # via sentry
